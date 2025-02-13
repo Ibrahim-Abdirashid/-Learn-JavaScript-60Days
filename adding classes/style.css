@@ -1,0 +1,11 @@
+.highlight{
+  color:white;
+  background-color:blue;
+  font-weight: bold;
+  padding: 10px;
+
+  border-radius: 5px;
+}
+.hidden{
+  display:none;
+}
